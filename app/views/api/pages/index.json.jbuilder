@@ -1,11 +1,4 @@
 json.message 'hello'
-<<<<<<< HEAD
-
-
-
-
-
-
 json.name 'Shaunda'
 =======
 json.name 'Marcus Hamill'
