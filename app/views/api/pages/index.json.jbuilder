@@ -1,2 +1,5 @@
 json.message 'hello'
 json.tina 'tina'
+json.thomas 'ThomasNg'
+json.name 'Sherminator'
+json.name 'Joe'
