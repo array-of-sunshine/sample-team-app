@@ -1,2 +1,2 @@
 json.message 'hello'
-json.name 'tina'
+json.tina 'tina'
