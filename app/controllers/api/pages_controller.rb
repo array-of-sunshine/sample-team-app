@@ -11,8 +11,12 @@ class Api::PagesController < ApplicationController
   def update
     render 'show.json.jbuilder'
   end
-  
-  def create 
+
+  def create
+    render 'show.json.jbuilder'
+  end
+
+  def tina
     render 'show.json.jbuilder'
   end
 end
