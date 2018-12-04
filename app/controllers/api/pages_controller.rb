@@ -7,11 +7,18 @@ class Api::PagesController < ApplicationController
     render 'show.json.jbuilder'
   end
 
+ Marcus
+  def update
+    render 'show.json.jbuilder'
+  end
+
   def create
     render 'show.json.jbuilder'
   end
 
-  def tinas_action
+  def tina
     render 'show.json.jbuilder'
   end
 end
+
+master
