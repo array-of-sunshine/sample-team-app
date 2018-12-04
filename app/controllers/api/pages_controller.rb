@@ -10,4 +10,8 @@ class Api::PagesController < ApplicationController
   def create
     render 'show.json.jbuilder'
   end
+
+  def tinas_action
+    render 'show.json.jbuilder'
+  end
 end
