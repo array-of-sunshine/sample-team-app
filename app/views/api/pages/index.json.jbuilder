@@ -10,4 +10,4 @@ json.name 'Sherminator'
 json.name 'Joe'
 json.name 'Shaunda'
 
-json.mustache 'you a question'
+json.mustache 'you a question. nevermind, I\'ll shave it for later'
