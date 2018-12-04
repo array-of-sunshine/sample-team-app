@@ -7,7 +7,14 @@ class Api::PagesController < ApplicationController
     render 'show.json.jbuilder'
   end
 
+ Marcus
+  def update
+    render 'show.json.jbuilder'
+  end
+  
   def create 
     render 'show.json.jbuilder'
   end
 end
+
+master
