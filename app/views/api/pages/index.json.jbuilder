@@ -7,6 +7,7 @@ json.name 'Joe'
 json.thomas 'ThomasNg'
 json.name 'Sherminator'
 json.name 'Joe'
+
 json.name 'Shaunda'
 
-json.mustache 'you a question. nevermind, I\'ll shave it for later'
+json.i_mustache 'you a question. nevermind, I\'ll shave it for later'
